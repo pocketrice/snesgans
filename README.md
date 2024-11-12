@@ -7,4 +7,5 @@ Miscellaneous bite (byte?)-sized SNES shenanigans in Java, based on Retro Game M
 - **CRT demo (OPHCT & OPVCT registers, V/H/F-blanking)** ~ _Lag & Blanking; Pt. 6_
 - **DMA demo (+ HDMA support for Layering demo)** ~ _DMA & HDMA; Pt. 7_
 - **Control deck demo (joypad, mouse, multitap, Super Scope)** ~ _Controllers; Pt. 8_
-- **.sfc ROM reader (LoROM, HiROM, SuperMMC, SAS, SFX, ExHiROM, ExLoROM)** ~ _Memory Mapping; Pt. 9_
+- **.sfc/.smc ROM reader (LoROM, HiROM, SuperMMC, SAS, SFX, ExHiROM, ExLoROM)** ~ _Memory Mapping; Pt. 9_
+- **ROM mirroring demo (ROMSEL, interactive wiring)** ~ _Mirroring & Open Bus; Pt. 10_
