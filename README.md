@@ -11,4 +11,4 @@ Miscellaneous bite (byte?)-sized SNES shenanigans in Java, based on Retro Game M
 - **.sfc/.smc ROM reader (LoROM, HiROM, SuperMMC, SAS, SFX, ExHiROM, ExLoROM; headers)** ~ _Memory Mapping & Internal ROM Header; Pts. 9 & 9c_
 - **ROM mirroring demo (ROMSEL, interactive wiring)** ~ _Mirroring & Open Bus; Pt. 9b_
 - **APU Boot ROM demo** ~ _SPC700 & ARAM; Pt. 10_
-- **SNES Full Memory Map** ~_Hardware Registers; Pt. 11_
+- **SNES Full Memory Map** ~ _Hardware Registers; Pt. 11_
