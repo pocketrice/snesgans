@@ -3,7 +3,7 @@ Miscellaneous bite (byte?)-sized SNES shenanigans in Java, based on Retro Game M
 
 - **SPC-700 & 65816 instruction set demo** ~ _SPC700 & ARAM; Pt. 10 + SPC700 series_
 - **Palettes/Sprites demo (direct/indirect color, CGRAM)** ~ _Graphics & Palettes; Pt. 1_
-- **Layering demo (objects, backgrounds, color math)** ~ _Graphics & Palettes 3D Representation to Color Math; Pts. 2-3b_
+- **Layering demo (objects, backgrounds, color math)** ~ _Graphics & Palettes to 3D Representation to Color Math; Pts. 2-3b_
 - **Modes demo (Modes 0-7)** ~ _SNES Background Modes 0-6 to SNES Background Mode 7; Pts. 4-5_
 - **CRT demo (OPHCT & OPVCT registers, V/H/F-blanking)** ~ _Lag & Blanking; Pt. 6_
 - **DMA demo (+ HDMA support for Layering demo)** ~ _DMA & HDMA; Pt. 7_
